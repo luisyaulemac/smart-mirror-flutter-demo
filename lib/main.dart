@@ -364,7 +364,7 @@ class _AgendaRow extends StatelessWidget {
             child: Text(
               title,
               style: const TextStyle(
-                color: Colors.white78,
+                color: Colors.white70,
                 fontSize: 16,
               ),
             ),
